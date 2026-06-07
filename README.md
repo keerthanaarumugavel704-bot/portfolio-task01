@@ -54,7 +54,7 @@ portfolio-task01
 1. Download or clone the repository.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/portfolio-task01.git
+git clone https://github.com/YOUR_USERNAME/portfolio-task
 ```
 
 2. Open the project in Visual Studio Code.
@@ -65,7 +65,7 @@ git clone https://github.com/YOUR_USERNAME/portfolio-task01.git
 
 ## GitHub Profile
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub:https://github.com/keerthanaarumugavel704-bot
 
 ## Future Improvements
 
