@@ -1,0 +1,57 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+body{
+	font-family:Arial,sans-serif;
+	line-height:1.6;
+	background:#f4f4f4;
+}
+
+header{
+	background:#333;
+	color:white;
+	text-align:center;
+	padding:20px;
+}
+
+nav ul{
+	list-style:none;
+	display:flex;
+	justify-content:center;
+	gap:20px;
+	margin-top:10px;
+}
+
+nav a{
+	color:white;
+	text-decoration:none;
+}
+
+section{
+	padding:30px;
+	margin:20px;
+	background:white;
+	border-radius:10px;
+}
+
+form{
+	display:flex;
+	flex-direction:column;
+}
+
+input,
+textarea{
+	margin:10px 0;
+	padding:10px;
+}
+
+button{
+	background:#007bff;
+	color:white;
+	border:none;
+	padding:10px;
+	cursor:pointer;
+}
